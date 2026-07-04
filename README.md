@@ -45,7 +45,7 @@ Ready to play?
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sanidhya1765/bored-devs.git
+git clone https://github.com/Sanidhya1765/fizzy-games.git
 ```
 
 Go into the project:
@@ -154,9 +154,5 @@ This project is licensed under the MIT License.
 ### Happy Coding! 🚀
 
 > "Coding is fun, but taking a small break with a game is even better." 😄
->
-### To run app
-
-> npx best-coder
 
 💀Sanidhya Jha
